@@ -165,6 +165,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 Feel free to reach out via [Email](mailto:your-email@example.com) or create an issue for any questions, bugs, or feature requests!
-```
 
-This version removes all emojis while retaining the professional look and clear structure for your project. Let me know if you need any further modifications!
